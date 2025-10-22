@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="es">
 <head>
 <meta charset="utf-8" />
@@ -112,7 +112,7 @@ button.center { display:block; margin:12px auto 0; padding:8px 12px; background:
 
 </div>
 
-<footer>Fuentes: síntesis a partir de crónicas (Bernal Díaz, Cortés), estudios históricos y recursos públicos. Si quieres imágenes fotográficas reales para imprimir, puedo insertar enlaces o preparar una versión en PPTX.</footer>
+<footer></footer>
 
 <script>
 // hacer visibles las tarjetas al entrar en el viewport y permitir navegación con flechas
